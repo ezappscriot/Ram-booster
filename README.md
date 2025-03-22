@@ -1,6 +1,6 @@
 windows VBscript
 
-
+scroll down!
 .
 .
 
@@ -84,9 +84,6 @@ windows VBscript
 .
 
 .
-
-.
-
 .
 .
-this is a prank btw it does absolutely nothing
+this is a prank btw it does absolutely nothing it just shut downs the pc using simple code
